@@ -1,3 +1,3 @@
 Tiedossaa toteutetaan nettiyhteys
 
-system.out.prinln("nettiyhteys");
+system.out.println("nettiyhteys");
